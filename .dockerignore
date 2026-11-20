@@ -1,0 +1,9 @@
+.git
+.dvc
+data
+model
+model_download
+*.ipynb
+*.pdf
+__pycache__
+.github
